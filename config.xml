@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "2396909"
+    versionCode = "1"
+    version     = "0.01" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>RM App</name>
+
+  <description>
+     À venir
+  </description>
+
+  <author href="http://mathieuriviere.com" email="info@mathieuriviere.com">
+      Mathieu Rivière
+  </author>
+
+</widget>
